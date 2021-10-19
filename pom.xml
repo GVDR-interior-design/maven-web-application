@@ -94,7 +94,7 @@
 	      <id>nexus</id>
 	      <name>wallmart-release</name>
 	      <url>http://3.7.254.141:8081/repository/wallmart-release/</url>
-	    </repository>
+	     </repository>
 		
 	    <snapshotRepository>
 	      <id>nexus</id>
