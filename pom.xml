@@ -89,8 +89,7 @@
 	
 	
 	
-	<distributionManagement>
-		
+	<distributionManagement>	
 	    <repository>
 	      <id>nexus</id>
 	      <name>wallmart-release</name>
@@ -101,8 +100,7 @@
 	      <id>nexus</id>
 	      <name>wallmart-snapshot </name>
 	      <url>http://3.7.254.141:8081/repository/wallmart-snapshot/</url>
-	    </snapshotRepository>
-		
+	    </snapshotRepository>		
 	</distributionManagement>
 	
 	
