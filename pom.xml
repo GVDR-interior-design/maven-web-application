@@ -87,18 +87,25 @@
 
 	</dependencies>
 	
+	
+	
 	<distributionManagement>
+		
 	    <repository>
 	      <id>nexus</id>
 	      <name>wallmart-release</name>
-	      <url>http://3.7.55.83:8081/repository/wallmart-release/</url>
+	      <url>http://3.7.254.141:8081/repository/wallmart-release/</url>
 	    </repository>
+		
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>wallmart-snapshot </name>
-	      <url>http://3.7.55.83:8081/repository/wallmart-snapshot/</url>
+	      <url>http://3.7.254.141:8081/repository/wallmart-snapshot/</url>
 	    </snapshotRepository>
+		
 	</distributionManagement>
+	
+	
 	
 	<build>
 		<finalName>maven-web-application</finalName>
