@@ -92,14 +92,14 @@
 	<distributionManagement>	
 	    <repository>
 	      <id>nexus</id>
-	      <name>wallmart-release</name>
-	      <url>http://3.7.254.141:8081/repository/GVDR-RELEASE/</url>
+	      <name>GVDR-RELEASE</name>
+	      <url>http://3.108.237.35:8081/repository/GVDR-RELEASE/</url>
 	     </repository>
 		
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>wallmart-snapshot </name>
-	      <url>http://3.7.254.141:8081/repository/GVDR-SNAPSHOT/</url>
+	      <name>GVDR-SNAPSHOT</name>
+	      <url>http://3.108.237.35:8081/repository/GVDR-SNAPSHOT/</url>
 	    </snapshotRepository>		
 	</distributionManagement>
 	
